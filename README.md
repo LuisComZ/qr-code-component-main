@@ -20,11 +20,11 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ## Where to find everything
 
-Sua tarefa é criar o projeto para os designs dentro da pasta `/design`.Você encontrará uma versão móvel e uma área de trabalho do design.
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
-Os projetos estão em formato estático JPG.O uso de JPGs significa que você precisará usar seu melhor julgamento para estilos como `font-size`,` preenchimento` e 'margem'.
+The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-Se você deseja que os arquivos de design (forneçamos versões Sketch & Figma) para inspecionar o design com mais detalhes, você pode [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
